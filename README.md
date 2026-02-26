@@ -28,6 +28,20 @@ No backend required. No database server needed.
 
 ------------------------------------------------------------------------
 
+##Downloading DataFramework & Patch Modules
+
+- Open the source code and download the full all-in-one HTML file
+- We recommend saving this file in a folder labled "DataFramework"
+- Click to open the file in the browser of your choice
+- No install needed
+- The application can be wrapped into an installer if you wish you to do so (More information on that below)
+- We have optional modules that can be installed to your application as a .path.json file
+- Patch files must be installed using the patch manager.
+- Modules can be requested by email from dataframework@gmail.com
+- A list of requestable modules can be found under the MODULES.md documentation
+
+------------------------------------------------------------------------
+
 ## Key Features
 
 ### Data Import
